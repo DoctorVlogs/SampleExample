@@ -1,2 +1,2 @@
 # SampleExample
-This is a doctor vlogsss channel.
+This is a doctor vlogs channel.
